@@ -3,6 +3,7 @@
 
 1. [wz-us-28may25-1](#wz-us-28may25-1)
 2. [Recommended Stuffs](#recommended-stuffs)
+3. [Ref](#ref)
 
 # wz-us-28may25-1
 
@@ -13,3 +14,11 @@
 |                   stuff                   |               What               |
 | :---------------------------------------: | :------------------------------: |
 | [`SkeletonUI`](https://www.skeleton.dev/) | Recommended lighweight practical |
+
+# Ref
+
+This ref being used from github
+
+|                                           Ref                                            |           What            |
+| :--------------------------------------------------------------------------------------: | :-----------------------: |
+| [`Svekte5_StarterTemplate`](https://github.com/Nickfis/svelte5-course-starter-templates) | Svelte5 Starter templates |
