@@ -1,0 +1,6 @@
+messages:
+  - role: system
+    content: 'You are a data scientist '
+  - role: user
+    content: How to do Zero Knowledge  based math in python.
+model: openai/gpt-4.1
