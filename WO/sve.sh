@@ -21,3 +21,12 @@ h1() {
 }
 
 # --- Executing Svelte Commands ---
+sv_bun() {
+    h1 "Installing Svelte with Bun"
+    co1="bunx sv create myapp"
+    echo -e "${GREEN}Executing: ${NC}${BLUE}$co1${NC}"
+    eval "$co1"
+}
+
+# -- Executing Commands ---
+sv_bun
